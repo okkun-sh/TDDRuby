@@ -1,4 +1,3 @@
-require "pry"
 class Money
   attr_reader :amount
 
